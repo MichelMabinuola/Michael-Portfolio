@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sql on Michael Mabinuola</title>
+    <link>https://MichelMabinuola.github.io/Michael-Portfolio/categories/sql/</link>
+    <description>Recent content in sql on Michael Mabinuola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://MichelMabinuola.github.io/Michael-Portfolio/categories/sql/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Supermarket Analysis</title>
+      <link>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-3/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-3/</guid>
+      <description>Supermarket sales analysis An analysis of a supermarket to get a general perspective about sales in its three main stores.</description>
+    </item>
+    
+  </channel>
+</rss>

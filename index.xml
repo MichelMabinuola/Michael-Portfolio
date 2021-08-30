@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Mabinuola</title>
+    <link>https://MichelMabinuola.github.io/Michael-Portfolio/</link>
+    <description>Recent content on Michael Mabinuola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://MichelMabinuola.github.io/Michael-Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MNIST Numbers</title>
+      <link>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-7/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-7/</guid>
+      <description>MNIST Handwritten Recognition An artificial neural network algorithm that recognizes handwritten numbers was created and an accuracy of 98% was achieved.</description>
+    </item>
+    
+    <item>
+      <title>Financial Statement Analysis</title>
+      <link>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-2/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-2/</guid>
+      <description>Financial Statement Analysis and Valuation A full analysis and valuation of Johnson and Johnson financial Statement.</description>
+    </item>
+    
+    <item>
+      <title>Fraud Detection</title>
+      <link>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-10/</link>
+      <pubDate>Fri, 01 Jan 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-10/</guid>
+      <description>Credit Card fraud Detection The overall goal of this project is to distinguish between fraud and valid transactions in credit card transactions.</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 EDA</title>
+      <link>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-1/</link>
+      <pubDate>Sat, 01 Aug 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-1/</guid>
+      <description>COVID-19 Exploratory Data Analysis An exploratory analysis which explores on the current COVID-19 situation in the world.</description>
+    </item>
+    
+    <item>
+      <title>Supermarket Analysis</title>
+      <link>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-3/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-3/</guid>
+      <description>Supermarket sales analysis An analysis of a supermarket to get a general perspective about sales in its three main stores.</description>
+    </item>
+    
+    <item>
+      <title>WIX Redesign</title>
+      <link>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-9/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-9/</guid>
+      <description>WIX-WEBSITE PROTOTYPE REDESIGN Designed and Redeveloped the WIX website.</description>
+    </item>
+    
+    <item>
+      <title>Analysis with R</title>
+      <link>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-8/</link>
+      <pubDate>Fri, 08 May 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-8/</guid>
+      <description>Analysis-With-R A word cloud algorithm was written in R to analyze the speech of the Federal republic of Nigeria.</description>
+    </item>
+    
+    <item>
+      <title>Option Price Modelling</title>
+      <link>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-5/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-5/</guid>
+      <description>Option Price Modelling project Designed a multiple-step binomial option pricing model in excel to calculate the theoretical value of an option.</description>
+    </item>
+    
+    <item>
+      <title>BitWallet</title>
+      <link>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-6/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-6/</guid>
+      <description>Bitcoin Web marketting application Worked on the development of the landing page of a marketing website with the main aim to increase user sign ups using an animated coin created using SVG.</description>
+    </item>
+    
+    <item>
+      <title>BIG MART PREDICTION</title>
+      <link>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-13/</link>
+      <pubDate>Wed, 01 Jan 2020 12:14:34 +0600</pubDate>
+      
+      <guid>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-13/</guid>
+      <description>BIG MART PREDICTION Analytics Vidhya Big Mart Sales prediction Hackathon, where I built a predictive model to predict sales data for 1559 products across ten stores in different cities.</description>
+    </item>
+    
+    <item>
+      <title>SAYN Magazine</title>
+      <link>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-4/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-4/</guid>
+      <description>SAYN: A complete design of a website inspired by Rron Berisha Worked on the development of the landing page of magazine website (Prototype) with the primary aim of increasing users visit.</description>
+    </item>
+    
+    <item>
+      <title>Black Xcellence</title>
+      <link>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-11/</link>
+      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-11/</guid>
+      <description>Black X cellence A Photography design concept created by me.</description>
+    </item>
+    
+    <item>
+      <title>MovieTube</title>
+      <link>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-12/</link>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-12/</guid>
+      <description>Movie-Tube I enjoy watching movies so i decided to create a prototype of an ideal movie website.</description>
+    </item>
+    
+  </channel>
+</rss>
