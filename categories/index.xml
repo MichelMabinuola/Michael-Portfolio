@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Michael Mabinuola</title>
+    <link>https://MichelMabinuola.github.io/Michael-Portfolio/categories/</link>
+    <description>Recent content in Categories on Michael Mabinuola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://MichelMabinuola.github.io/Michael-Portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Analysis</title>
+      <link>https://MichelMabinuola.github.io/Michael-Portfolio/categories/data-analysis/</link>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://MichelMabinuola.github.io/Michael-Portfolio/categories/data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Financial Analysis</title>
+      <link>https://MichelMabinuola.github.io/Michael-Portfolio/categories/financial-analysis/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://MichelMabinuola.github.io/Michael-Portfolio/categories/financial-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sql</title>
+      <link>https://MichelMabinuola.github.io/Michael-Portfolio/categories/sql/</link>
+      <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://MichelMabinuola.github.io/Michael-Portfolio/categories/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web Development</title>
+      <link>https://MichelMabinuola.github.io/Michael-Portfolio/categories/web-development/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://MichelMabinuola.github.io/Michael-Portfolio/categories/web-development/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web Development on Michael Mabinuola</title>
+    <link>https://MichelMabinuola.github.io/Michael-Portfolio/categories/web-development/</link>
+    <description>Recent content in web Development on Michael Mabinuola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://MichelMabinuola.github.io/Michael-Portfolio/categories/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WIX Redesign</title>
+      <link>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-9/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-9/</guid>
+      <description>WIX-WEBSITE PROTOTYPE REDESIGN Designed and Redeveloped the WIX website.</description>
+    </item>
+    
+    <item>
+      <title>BitWallet</title>
+      <link>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-6/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-6/</guid>
+      <description>Bitcoin Web marketting application Worked on the development of the landing page of a marketing website with the main aim to increase user sign ups using an animated coin created using SVG.</description>
+    </item>
+    
+    <item>
+      <title>SAYN Magazine</title>
+      <link>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-4/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-4/</guid>
+      <description>SAYN: A complete design of a website inspired by Rron Berisha Worked on the development of the landing page of magazine website (Prototype) with the primary aim of increasing users visit.</description>
+    </item>
+    
+    <item>
+      <title>Black Xcellence</title>
+      <link>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-11/</link>
+      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-11/</guid>
+      <description>Black X cellence A Photography design concept created by me.</description>
+    </item>
+    
+    <item>
+      <title>MovieTube</title>
+      <link>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-12/</link>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://MichelMabinuola.github.io/Michael-Portfolio/portfolio/project-12/</guid>
+      <description>Movie-Tube I enjoy watching movies so i decided to create a prototype of an ideal movie website.</description>
+    </item>
+    
+  </channel>
+</rss>
